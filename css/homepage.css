@@ -1,0 +1,73 @@
+body {
+    font-family: 'Oswald', Arial, sans-serif;
+}
+
+h1, h3, h4, h5, .navbar-brand{
+    font-family: 'Courgette', 'Times new roman', cursive, serif;
+}
+
+h3, .navbar-brand{
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+header img {
+    margin-top: 95px;
+}
+
+.background {
+background-image: url("../img/header.jpg");
+height: 530px;
+}
+
+.filtre {
+    background: rgba(0, 0, 0, .8);
+    height: 530px;
+}
+
+
+header {
+    color: #FFFFFF;
+}
+
+header h3 {
+    font-size: 2.5rem;
+}
+
+header img {
+    width: 80px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+footer {
+    background: #000000;
+    color: #FFFFFF;
+    padding: 60px 0;
+}
+
+footer a {
+  text-decoration: underline;
+  color: #FFFFFF;
+}
+
+a {
+    color: #000000;
+    margin: 3px;
+}
+
+footer i {
+    background: #FFFFFF;
+    padding: 9px;
+    color: #000000;
+}
+
+footer h5 {
+    margin-top: 40px;
+}
